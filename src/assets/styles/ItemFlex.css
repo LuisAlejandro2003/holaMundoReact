@@ -1,0 +1,11 @@
+.flexbox-container{
+    height: 300px;
+    width: 100%;
+    border: 1px blue solid;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    align-content: flex-start;
+   
+}
